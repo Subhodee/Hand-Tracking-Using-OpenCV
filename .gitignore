@@ -1,0 +1,18 @@
+# Ignore virtual environment folder
+handenv/
+venv/
+.env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model files
+*.task
+
+# Ignore video outputs
+*.avi
+*.mp4
+
+# Ignore IDE/editor settings
+.vscode/
