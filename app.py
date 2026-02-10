@@ -3,7 +3,6 @@ import mediapipe as mp
 from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
 import numpy as np
-from app import draw_landmarks_on_image
 
 # Configuration Objects
 
