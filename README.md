@@ -59,6 +59,8 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Start the project by running the appropriate command.
      ```
      python app.py
+
+   -Also to check with a video, run the Hand-Tracking-From-Media.py
      ```
 
 6. **Access the Project**
